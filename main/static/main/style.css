@@ -1,0 +1,26 @@
+img {
+    padding: 10 0px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.checked {
+    color: red;
+}
+
+.my-btn {
+    background-color: inherit !important;
+    border: 0 !important;
+}
+
+#obrazek
+{
+background-color:red;
+}
+#galeria
+{
+background-color:red;
+}
+
+
+
