@@ -1,0 +1,2 @@
+# galeria
+praca inz
